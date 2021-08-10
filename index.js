@@ -31,13 +31,13 @@ $(document).ready(function() {
     });
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Student", "Girl", "Developer", "Blink", "Lover"],
+        strings: ["Puzzle", "Kill Diamond", "Kill Bird", "Stack", "Tic Tac Tic Tac", "FLIP"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["Student", "Girl", "Developer", "Blink", "Lover"],
+        strings: ["Puzzle", "Kill Diamond", "Kill Bird", "Stack", "Tic Tac Tic Tac", "FLIP"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
